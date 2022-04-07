@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RonTechs
+- 👋 Hi, I’m Rontings @RonTechs 
 - 👀 I’m interested in Web Design and development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on church websites
